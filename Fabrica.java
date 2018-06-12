@@ -1,3 +1,6 @@
 public interface Fabrica {
-	public void FactoryMethod();
+	public void criaAvAlimentar();
+	public void criaAvAntropometrica();
+	public void criaAvBioquimica();
+	public void criaAvFisica();
 }
