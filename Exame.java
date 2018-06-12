@@ -1,3 +1,5 @@
+import java.sql.Date;
+
 public class Exame {
 	private String tipo;
 	private String nome;
